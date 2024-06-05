@@ -1,0 +1,62 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.navbar{
+    background-image: linear-gradient(black,  grey, black); 
+    border: 2px solid black;
+    height: 60px;
+    
+    padding: 35px 40px;  
+}
+ .navbar span{
+     /* border: 2px solid black; */
+     padding: 5px;
+     color: white;  
+    margin: 0px 50px;
+   
+ } 
+ .navbar span:first-child{
+    color: black;
+    background-color: white;
+ }
+
+    
+.pic1{
+    width: 1000px;
+
+}
+.pic2{
+    margin: 10px;
+    border: 4px;
+    
+}
+.pic3{
+    background-color: black;
+    color: white;
+}
+.pic3para{
+    color: white;
+    display: inline-block;
+    width: 45%;
+}
+.pic3img{
+    color: white;
+    display: inline-block;
+    width: 45%;
+    height: 30%;
+}
+.img1{
+    padding: 0px 0px;
+
+}
+.img2{
+    padding: 0px 35px 0px 35px;
+
+}
+
+
+
+
